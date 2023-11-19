@@ -36,7 +36,7 @@ The below scatter plot shows how the price depends on year and milage on a logar
 The below chart shows how the price depends on engine size (cylinders) and milage. Vehicles with both small and large engines tend to hold their value reasonably well until around 30,000 miles. Beyond that, there is a steady decline in price, especially for vehicles with smaller, 4-cylinder engines (in blue). Vehicles with larger 6 and 8 cylinder engines tend to hold their value better even after 100,000 miles, especially the 8-cylinder ones (in light yellow).  
 ![Price vs odomater and cylinders](https://github.com/fredrik-pettersson/Practical-Application-2/assets/146313002/83b87a89-12f6-4090-ad13-35328fcc20e2)
 
-Similar trends can be seen for vehicle size and vehicle condition. Full-size vehicles (in yellow) and vehicles in excellent condition (orange) tend to hold their values better, even beyond 100,000 miles, compared to smaller vehicles in fair or good condition. 
+Similar trends can be seen for vehicle size and vehicle condition (see two below charts). Full-size vehicles (in yellow) and vehicles in excellent condition (orange) tend to hold their values better, even beyond 100,000 miles, compared to smaller vehicles in fair or good condition. 
 ![Price vs odometer and size](https://github.com/fredrik-pettersson/Practical-Application-2/assets/146313002/1930c147-2a77-494b-855f-1545152d6f07)
 
 ![Price vs odometer and condition](https://github.com/fredrik-pettersson/Practical-Application-2/assets/146313002/5dd5d2f9-9744-4838-8572-6a7af94bcf5f)
