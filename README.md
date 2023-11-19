@@ -3,7 +3,7 @@ What drives the price of a used car?  The goal is to analyze a dataset with info
 # Introduction
 An extensive dataset with information on 426,000 used vehicles including price, year, manufacturer, model, condition, engine size (cylinders), fuel, odometer, title status, transmission, VIN, drive, size, type, color, and state was provided by a car dealership client who would like to understand what factors drive consumers' willingness to pay for used vehicles. A total of 55 different features and their impact on used vehicle pricing were analyzed in the study. 
 # Initial Hypothesis
-The initial hypothesis is that consumers are willing to pay a premium price for newer, larger, and lower mileage vehicles. Also, brands associated with quality, performance, and reliability can be sold at a premium, as well as features such as 4WD and larger engines. In addition, diesel vehicles are generally more expensive thanks to higher fuel efficency and durability. 
+The initial hypothesis is that consumers are willing to pay a premium price for newer, larger, and lower mileage vehicles. Also, brands associated with quality, performance, and reliability can be sold at a premium, as well as features such as four-wheel drive (4WD) and larger engines. In addition, diesel vehicles are generally more expensive thanks to higher fuel efficency and durability. 
 # Methodology
 The dataset was analyzed, cleaned, and prepared for machine learning using two different types of multivariable regression models: GridSearchCV with Ridge regression and StandardScaler, and the LinearRegression model with SequentialFeatureSelector.
 
