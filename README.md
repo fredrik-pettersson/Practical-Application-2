@@ -1,5 +1,5 @@
 # Practical-Application-2
-What drives the price of a used car?  The goal is to analyze a dataset with information on 426,000 used cars to understand what factors make a car more or less expensive. The analysis provides clear recommendations to a used car dealership as to what consumers value in a used car.
+What drives the price of a used car?  The goal is to analyze a dataset with information on almost half a million used cars to understand what factors make a car more or less expensive. The analysis provides clear recommendations to a used car dealership as to what consumers value in a used car.
 # Introduction
 An extensive dataset with information on 426,000 used vehicles including price, year, manufacturer, model, condition, engine size (cylinders), fuel, odometer, title status, transmission, VIN, drive, size, type, color, and state was provided by the client who would like to understand what factors drive consumers' willingness to pay
 for used vehicles. 
